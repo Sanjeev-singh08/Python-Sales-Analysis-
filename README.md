@@ -73,9 +73,3 @@ Here’s a structured and professional write-up of the **steps performed in your
 ## Conclusion
 
 Through systematic data cleaning, feature engineering, and exploratory data analysis, this project identified key business insights from sales data. The findings revealed that **December was the best-performing month, San Francisco was the top city for sales, and peak order times occurred at 11 AM and 7 PM**. Product bundling analysis highlighted the importance of accessory sales with premium items, and sales volume analysis emphasized the strong demand for low-cost, essential products like batteries.
-
-These insights can guide marketing strategies, inventory management, and promotional planning for maximizing sales and customer engagement.
-
----
-
-Do you want me to **format this as a GitHub-ready README.md file** (with headings, subheadings, and code blocks), so you can directly host it with your notebook?
