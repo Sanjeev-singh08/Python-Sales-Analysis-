@@ -1,8 +1,3 @@
-# Sales-Analysis
-
-Here’s a structured and professional write-up of the **steps performed in your project** and the **conclusions drawn**. You can directly use this for your GitHub project documentation (like in a README file).
-
----
 
 # Sales Analysis Project
 
